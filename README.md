@@ -1,3 +1,5 @@
+# XUSD - XDC Backed Stablecoin
+
 ## Inspiration
 Blockchain technology and cryptocurrencies have faced suspicion and skepticism from many people due to their association with fraudulent schemes and scams. However, the ultimate aim of this project is to build trust among users and provide them with a safe and secure way to use cryptocurrencies.
 
